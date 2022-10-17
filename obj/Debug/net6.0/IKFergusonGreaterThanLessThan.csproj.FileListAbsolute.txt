@@ -1,0 +1,15 @@
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\bin\Debug\net6.0\IKFergusonGreaterThanLessThan.exe
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\bin\Debug\net6.0\IKFergusonGreaterThanLessThan.deps.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\bin\Debug\net6.0\IKFergusonGreaterThanLessThan.runtimeconfig.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\bin\Debug\net6.0\IKFergusonGreaterThanLessThan.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\bin\Debug\net6.0\IKFergusonGreaterThanLessThan.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.csproj.AssemblyReference.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.AssemblyInfoInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.AssemblyInfo.cs
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.csproj.CoreCompileInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\refint\IKFergusonGreaterThanLessThan.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\IKFergusonGreaterThanLessThan.genruntimeconfig.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonGreaterThanLessThan\obj\Debug\net6.0\ref\IKFergusonGreaterThanLessThan.dll
