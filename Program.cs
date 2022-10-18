@@ -1,6 +1,8 @@
 ﻿//Isaiah Keith Ferguson
-//10/17/2022
+//10/18/2022
 //Greater Than or Less than
+// have the user input 2 numbers at tell which one is greater than the other and or less than the other.
+//Peer Reviewed by:
 
 
 Console.Clear();
